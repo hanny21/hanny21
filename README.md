@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanka</h1>
 <h3 align="center">FullStack JavaScript developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanny21&label=Profile%20views&color=0e75b6&style=flat" alt="hanny21" /> </p>
-
 - 🔭 I’m currently working on [https://www.pomahejukrajine.cz/](https://www.pomahejukrajine.cz/)
 
 - 🌱 I’m currently learning **Go, Python**
