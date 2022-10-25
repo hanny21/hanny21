@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hana</h1>
+<h1 align="center">Hi 👋, I'm Hanka</h1>
 <h3 align="center">FullStack JavaScript developer</h3>
 
 - 🔭 I’m currently working on [https://www.pomahejukrajine.cz/](https://www.pomahejukrajine.cz/)
