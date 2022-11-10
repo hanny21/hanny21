@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://www.pomahejukrajine.cz/](https://www.pomahejukrajine.cz/)
 
-- 🌱 I’m currently learning **NextJS, Docker**
+- 🌱 I’m currently learning **NextJS, Remix, Docker**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
