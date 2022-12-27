@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hanka</h1>
+<h1 align="center">Hi, I'm Hanka 👋</h1>
 <h3 align="center">FullStack JavaScript developer</h3>
 
 - 🔭 I’m currently working on [https://www.pomahejukrajine.cz/](https://www.pomahejukrajine.cz/)
 
-- 🌱 I’m currently learning **NextJS, Remix, Docker**
+- 🌱 I’m currently learning **NextJS, Remix, Go**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
